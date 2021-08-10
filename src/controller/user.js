@@ -1,5 +1,6 @@
 const User=require('../models/user')
 const jwt = require('jsonwebtoken')
+const bcrypt=require('bcrypt')
 
 exports.signUp=async(req,res)=>{
     
@@ -51,7 +52,7 @@ exports.signUp=async(req,res)=>{
 
 exports.signIn=async(req,res)=>{
     User.findOne({email:req.body.email})
-        .exec((err,user)=>{
+        .exec(async(err,user)=>{
             if(err){
                 return  res.status(404).send('internal server error')
             }
@@ -59,7 +60,9 @@ exports.signIn=async(req,res)=>{
                 return  res.status(404).send('email is not registered')    
             }
             if(user){
-                if(user.authenticate(req.body.password)){
+                const passCheck=await user.authenticate(req.body.password)
+
+                if(passCheck && user.role==='user'){
                     const token=jwt.sign({_id:user._id,role:user.role},process.env.SECRET_KEY,{expiresIn:'365d'})
                     const {
                         firstname,
@@ -86,4 +89,9 @@ exports.signIn=async(req,res)=>{
             }
         })
 
+}
+
+exports.signOut=(req,res)=>{
+    res.clearCookie('token')
+    return res.status(200).send({message:"signout successfully"})
 }

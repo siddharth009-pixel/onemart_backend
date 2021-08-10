@@ -1,5 +1,6 @@
 const Category = require('../models/category')
 const slugify=require('slugify')
+const shortid=require('shortid')
 
 function sortCategories(categories,parentId=null){
 
@@ -16,6 +17,8 @@ function sortCategories(categories,parentId=null){
             _id:cate._id,
             name:cate.name,
             slug:cate.slug,
+            type:cate.type,
+            parentId:cate.parentId,
             children:sortCategories(categories,cate._id)
         })
     }
@@ -27,7 +30,7 @@ exports.createCategory=(req,res)=>{
 
     const catObject={
         name:req.body.name,
-        slug:slugify(req.body.name)
+        slug:`${slugify(req.body.name)}-${shortid.generate()}`
     }
 
     if(req.file){
@@ -38,7 +41,7 @@ exports.createCategory=(req,res)=>{
         catObject.parentId=req.body.parentId
     }
 
-    const cat=Category(catObject)
+    const cat=new Category(catObject)
     cat.save((err,category)=>{
         if(err){ return res.status(400).json(err)}
         if(category) {
@@ -57,6 +60,51 @@ exports.getCategories=async (req,res)=>{
             res.send(err);
         })
 }
+
+exports.updateCategory=async(req,res)=>{
+    const {_id,name,parentId,type}=req.body;
+    updatedCategories=[];
+    if(name instanceof Array){
+        for(let i=0;i<name.length;i++){
+            let category={
+                name:name[i],
+                type:type[i]
+            }
+            if(parentId[i] !==""){
+                category.parentId=parentId[i]
+            }else{
+                category.parentId=null
+            }
+            const updatedCategory=await Category.findOneAndUpdate({_id:_id[i]},category,{new:true})
+            updatedCategories.push(updatedCategory)
+        }
+        return res.status(201).send({updatedCategories})        
+    }else{
+        let category={
+            name,
+            type
+        }
+        
+        if(parentId !==""){
+            category.parentId=parentId
+        }else{
+            category.parentId=undefined
+        }
+        const updatedCategory=await Category.findOneAndUpdate({_id:_id},category,{new:true})
+        return res.status(201).send({updatedCategory})
+    }
+}
+
+exports.deleteCategory=async(req,res)=>{
+    const deletedCategories=[]
+    const {ids}= req.body.payload;
+    for(let i=0;i<ids.length;i++){
+        const deletedCat=await Category.findOneAndDelete({_id:ids[i]})
+        deletedCategories.push(deletedCat)
+    }
+    return res.status(200).send({message:"delete categories done"})
+}
+
 
 // (err,categories)=>{
 //     if(err) return res.status(400).send(err)

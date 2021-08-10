@@ -41,11 +41,11 @@ const productSchema=new mongoose.Schema({
     category:{
         type:mongoose.Schema.Types.ObjectId,
         required:true,
-        refs:'Category'
+        ref:'Category'
     },
     createdBy:{
         type:mongoose.Schema.Types.ObjectId,
-        refs:'User'
+        ref:'User'
     },
     updatedAt:{type:Date}
 },{timestamps:true})

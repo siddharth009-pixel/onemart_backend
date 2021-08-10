@@ -9,6 +9,10 @@ const categoryRoutes=require('./routes/category')
 const productRoutes=require('./routes/product')
 const cartRoutes=require('./routes/cart')
 const initialDataRoutes=require('./routes/admin/initialData')
+const pageRoutes=require('./routes/admin/page')
+const addressRoutes=require('./routes/address')
+const orderRoutes=require('./routes/order')
+const adminOrderRoutes=require('./routes/admin/order')
 // const { requiredSignIn } = require('./common-middleware')
 const path=require('path')
 const cors=require('cors')
@@ -43,6 +47,10 @@ app.use('/api',adminRoutes)
 app.use('/api',categoryRoutes)
 app.use('/api',productRoutes)
 app.use('/api',cartRoutes)
+app.use('/api',pageRoutes)
+app.use('/api',addressRoutes)
+app.use('/api',orderRoutes)
+app.use('/api',adminOrderRoutes)
 
 // app.get('/api/check',requiredSignIn,(req,res)=>{
     
@@ -51,7 +59,7 @@ app.use('/api',cartRoutes)
 // })
 
 
-app.listen(process.env.PORT,()=>{
+app.listen(process.env.PORT||2000,()=>{
     console.log(`server running pn port number ${process.env.PORT}`)
 })
 

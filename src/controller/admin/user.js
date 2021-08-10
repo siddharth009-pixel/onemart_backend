@@ -50,9 +50,8 @@ exports.signUp=async(req,res)=>{
 
 
 exports.signIn=async(req,res)=>{
-    await console.log('post request on server')
     User.findOne({email:req.body.email})
-        .exec((err,user)=>{
+        .exec(async(err,user)=>{
             if(err){
                 return  res.status(400).send(err)
             }
@@ -60,9 +59,12 @@ exports.signIn=async(req,res)=>{
                 return  res.status(400).send({error:'email is not registered'})    
             }
             if(user){
-                if(user.authenticate(req.body.password) && user.role==='admin'){
+
+                const passCheck=await user.authenticate(req.body.password)
+
+                if(passCheck && user.role==='admin'){
                     const token=jwt.sign({_id:user._id,role:user.role},process.env.SECRET_KEY,{expiresIn:'365d'})
-                    res.cookie('token',token,{expiresIn:'1h'})
+                    res.cookie('token',token,{expiresIn:'365d'})
                     const {
                         firstname,
                         lastname,
