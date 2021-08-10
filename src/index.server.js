@@ -52,11 +52,11 @@ app.use('/api',addressRoutes)
 app.use('/api',orderRoutes)
 app.use('/api',adminOrderRoutes)
 
-// app.get('/api/check',requiredSignIn,(req,res)=>{
+app.get('/api',(req,res)=>{
     
-//     console.log("you are signed in")
-//     res.send("you are logged in")
-// })
+    console.log("you are signed in")
+    res.send("you are logged in")
+})
 
 
 app.listen(process.env.PORT||2000,()=>{
