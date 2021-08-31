@@ -30,7 +30,8 @@ exports.createCategory=(req,res)=>{
 
     const catObject={
         name:req.body.name,
-        slug:`${slugify(req.body.name)}-${shortid.generate()}`
+        slug:`${slugify(req.body.name)}`,
+        type:"store"
     }
 
     if(req.file){

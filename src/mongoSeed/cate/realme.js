@@ -1,0 +1,703 @@
+﻿
+module.exports= Sheet1= [
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/g/r/g/c21-rmx3201-realme-original-imagfxfwn9aryyda.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C11 2021 (Cool Blue, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryOcta-core Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30A (Laser Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.54 cm (6.51 inch) HD+ Display13MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹9,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/klgx0280/mobile/z/b/z/narzo-30a-rmx3171-realme-original-imagyhbgzcyfwzfz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹16,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹16,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C20 (Cool Blue, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/w/h/q/c20-rmx3063-realme-original-imagfxfzay72jqvh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C20 (Cool Grey, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/7/9/u/c20-rmx3063-realme-original-imagfxfzjrkqtbhe.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 5G (Racing Silver, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹17,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/b/6/narzo-30-5g-rmx3242-realme-original-imag45yjub2vdrzx.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹18,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹9,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹18,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Blue, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/y/2/b/narzo-30-rmx2156-realme-original-imag45yhzhugdcqh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/y/2/b/narzo-30-rmx2156-realme-original-imag45yhzhugdcqh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Silver, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/u/w/b/narzo-30-rmx2156-realme-original-imag45ymfpry9ecq.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 5G (Racing Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/l/f/narzo-30-5g-rmx3242-realme-original-imag45yjdkgxddvh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Blue, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹9,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/g/r/g/c21-rmx3201-realme-original-imagfxfwn9aryyda.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C25s (Watery Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kplisnk0/mobile/8/j/s/c25s-rmx3197-realme-original-imag3smgq7frzezw.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C25s (Watery Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kplisnk0/mobile/8/j/s/c25s-rmx3197-realme-original-imag3smgq7frzezw.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C25s (Watery Grey, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kplisnk0/mobile/y/9/t/c25s-rmx3197-realme-original-imag3smcaztwgzeg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C25s (Watery Grey, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kplisnk0/mobile/y/9/t/c25s-rmx3197-realme-original-imag3smcaztwgzeg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C11 2021 (Cool Grey, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryOcta-core Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/s/b/8/c11-2021-rmx3231-realme-original-imag4j4xkqchhfxk.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X3 SuperZoom (Glacier Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.69 cm (6.57 inch) Full HD+ Display64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera4200 mAh BatteryQualcomm Snapdragon 855+ Processor120 Hz Smooth DisplayUIS and UIS Max Ultra Image StabilizationLiquid Cooling SystemBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹29,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kbs9k7k0/mobile/9/b/z/realme-x3-superzoom-rmx2085-original-imaft26h8ztzchmj.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/7/h/g/realme-x2-rmx1992-original-imafnfe8kahx3kyz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl White, 256 GB)",
+            "features": "8 GB RAM | 256 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/f/k/d/realme-x2-rmx1992-original-imafnfe8gu3ghess.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Blue, 256 GB)",
+            "features": "8 GB RAM | 256 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/7/h/g/realme-x2-rmx1992-original-imafnfe8kahx3kyz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 6i (Eclipse Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP | 16MP Front Camera4300 mAh BatteryMediaTek Helio G90T ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kcjexe80/mobile/u/k/j/realme-6i-rmx2002-original-imaftnfyhwxdruv2.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5s (Crystal Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display48MP + 8MP + 2MP + 2MP | 13MP Front Camera5000 mAh BatteryQualcomm Snapdragon 665 ProcessorHD+ Mini Drop Display48 MP AI Quad cameraBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹12,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/v/w/8/realme-5s-rmx1925-original-imafmbm6hatkkzys.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 1 (Diamond Red, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM15.24 cm (6 inch) Display13MP Rear Camera3410 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jr3t5e80/mobile/f/w/z/realme-realme1-cph1859-original-imafcws4dverzfqv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 1 (Red, Solar Red, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM15.24 cm (6 inch) Display13MP Rear Camera3410 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jr3t5e80/mobile/f/w/z/realme-realme1-cph1859-original-imafcws4dverzfqv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Dynamic Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorTriple Slots (Dual SIM + Memory Card)Fingerprint Sensor and Face UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹12,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jtrjngw0/mobile/2/t/v/realme-3-rmx1825-original-imaferd5uzuyxrsv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Radiant Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorTriple Slots (Dual SIM + Memory Card)Fingerprint Sensor and Face UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹12,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jtrjngw0/mobile/s/r/t/realme-3-rmx1825-original-imaferd5zvhurjhg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorTriple Slots (Dual SIM + Memory Card)Fingerprint Sensor and Face UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jtrjngw0/mobile/n/m/g/realme-3-rmx1825-original-imaferd586xgrzkv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Blue, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/7/h/g/realme-x2-rmx1992-original-imafnfe8kahx3kyz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Radiant Blue, 64 GB)",
+            "features": "3 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹11,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/g/e/7/3-64-d-rmx1825-realme-3-original-imafeybgs4babmxw.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Dynamic Black, 64 GB)",
+            "features": "3 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹11,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/2/b/r/3-64-b-rmx1825-realme-3-original-imafeybgpj8swqqa.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorTriple Slots (Dual SIM + Memory Card)Fingerprint Sensor and Face UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹12,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jtrjngw0/mobile/n/m/g/realme-3-rmx1825-original-imaferd586xgrzkv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 3 (Diamond Red, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB15.8 cm (6.22 inch) HD+ Display13MP + 2MP | 13MP Front Camera4230 mAh BatteryMediaTek Helio P70 Octa Core 2.1 GHz AI ProcessorTriple Slots (Dual SIM + Memory Card)Fingerprint Sensor and Face UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹12,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/f/e/t/3-64-u-rmx1825-realme-4-original-imafgqq4mguqpnad.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X (Polar White, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM16.59 cm (6.53 inch) Full HD+ Display48MP + 5MP | 16MP Front Camera3765 mAh BatteryQualcomm Snapdragon 710 Octa Core 2.2 GHz AIE ProcessorIn-display Fingerprint SensorVooC Flash Charge 3.0Super AMOLED DisplayBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/g/v/p/realme-x-rmx1901-original-imafgzg9f847dpps.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C15 Qualcomm Edition (Power Blue, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display13MP + 8MP + 2MP + 2MP | 8MP Front Camera6000 mAh Lithium-ion BatteryQualcomm Snapdragon 460 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kdxfc7k0/mobile/j/6/2/realme-c15-rmx2180-original-imafupu9wutkbf2k.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 6i (Lunar White, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP | 16MP Front Camera4300 mAh BatteryMediaTek Helio G90T ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kcjexe80/mobile/w/j/9/realme-6i-rmx2002-original-imaftngrxb8bg9jr.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C2 (Diamond Ruby, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB15.49 cm (6.1 inch) HD+ Display13MP + 2MP | 5MP Front Camera4000 mAh BatteryMediaTek P22 Octa Core 2.0 GHz ProcessorDual Nano SIM slots and Memory Card SlotFace UnlockBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹8,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/j/5/t/c2-32-d-rmx1941-realme-3-original-imafhfy57ckba7yb.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 6 (Comet White, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 16MP Front Camera4300 mAh BatteryMediaTek Helio G90T Processor90 Hz Ultra Smooth Display30 W Flash ChargeSide Fingerprint SensorBrand Warranty of 1 Year Available for Mobile Including Battery and 6 Months for Accessories",
+            "oldPrice": "₹17,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kc3p30w0/mobile/f/w/u/realme-6-rmx2001-original-imaftazphzthcbse.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 6i (Lunar White, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP | 16MP Front Camera4300 mAh BatteryMediaTek Helio G90T ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kcjexe80/mobile/w/j/9/realme-6i-rmx2002-original-imaftngrxb8bg9jr.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl White, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/f/k/d/realme-x2-rmx1992-original-imafnfe8gu3ghess.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5i (Aqua Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM16.56 cm (6.52 inch) HD+ Display12MP + 8MP + 2MP + 2MP | 8MP Front Camera5000 mAh BatteryQualcomm Snapdragon 665 (2 GHz) ProcessorSunrise DesignReverse ChargingBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k65d18w0pkrrdj/mobile/r/x/z/realme-5i-rmx2030-original-imafnsx5pakdfdpb.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X (Space Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM16.59 cm (6.53 inch) Full HD+ Display48MP + 5MP | 16MP Front Camera3765 mAh BatteryQualcomm Snapdragon 710 Octa Core 2.2 GHz AIE ProcessorIn-display Fingerprint SensorVooC Flash Charge 3.0Super AMOLED DisplayBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k3ncakw0pkrrdj/mobile/a/h/w/realme-x-rmx1901-original-imafgzg9yvran9r3.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5i (Aqua Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM16.56 cm (6.52 inch) HD+ Display12MP + 8MP + 2MP + 2MP | 8MP Front Camera5000 mAh BatteryQualcomm Snapdragon 665 2 GHz ProcessorSunrise DesignReverse ChargingBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k65d18w0pkrrdj/mobile/r/x/z/realme-5i-rmx2030-original-imafnsx5pakdfdpb.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 2 (Diamond Red, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB15.75 cm (6.2 inch) HD+ Display13MP + 2MP | 8MP Front Camera4230 mAh Li-ion BatteryQualcomm Snapdragon 450 Octa Core 1.8 GHz ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jlcmavk0/mobile/y/z/h/realme-2-rmx805-original-imaf8hxd9uwgg5gu.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 Pro (Lunar White, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.51 cm (6.5 inch) Full HD+ Display64MP + 13MP + 8MP + 2MP | 16MP Front Camera4000 mAh BatteryQualcomm Snapdragon 855 Plus Processor90 Hz Ultra Smooth Display50W Super Vooc Flash Charge20X Hybrid ZoomBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k391w280/mobile/h/v/n/realme-x2-pro-rmx1931-original-imafmf59mzagxp2j.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 Pro (Neptune Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.51 cm (6.5 inch) Full HD+ Display64MP + 13MP + 8MP + 2MP | 16MP Front Camera4000 mAh BatteryQualcomm Snapdragon 855 Plus Processor90 Hz Ultra Smooth Display50W Super Vooc Flash Charge20X Hybrid ZoomBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k391w280/mobile/z/c/m/realme-x2-pro-rmx1931-original-imafmf597chy5p8u.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X3 (Arctic White, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.69 cm (6.57 inch) Full HD+ Display64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front Camera4200 mAh BatteryQualcomm Snapdragon 855+ Processor120 Hz Smooth DisplayUIS and UIS Max Ultra Image StabilizationLiquid Cooling SystemBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹27,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kbs9k7k0/mobile/y/z/a/realme-x3-rmx2081-original-imaft26hnnytnuqg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Green, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/f/6/g/realme-x2-rmx1992-original-imafnfe8k8yutker.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X (Space Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.59 cm (6.53 inch) Full HD+ Display48MP + 5MP | 16MP Front Camera3765 mAh BatteryQualcomm Snapdragon 710 Octa Core 2.2 GHz AIE ProcessorIn-display Fingerprint SensorVooC Flash Charge 3.0Super AMOLED DisplayBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k3ncakw0pkrrdj/mobile/a/h/w/realme-x-rmx1901-original-imafgzg9yvran9r3.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 Pro (Lunar White, 256 GB)",
+            "features": "12 GB RAM | 256 GB ROM16.51 cm (6.5 inch) Full HD+ Display64MP + 13MP + 8MP + 2MP | 16MP Front Camera4000 mAh BatteryQualcomm Snapdragon 855 Plus Processor90 Hz Ultra Smooth Display50W Super Vooc Flash Charge20X Hybrid ZoomBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k391w280/mobile/h/v/n/realme-x2-pro-rmx1931-original-imafmf59mzagxp2j.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme U1 (Fiery Gold, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM16.0 cm (6.3 inch) Display13MP Rear Camera3500 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "₹15,499",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/jruyikw0/mobile/4/y/t/realme-u1-rmx1833-original-imafckhahxczrezn.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 Pro (Neptune Blue, 256 GB)",
+            "features": "12 GB RAM | 256 GB ROM16.51 cm (6.5 inch) Full HD+ Display64MP + 13MP + 8MP + 2MP | 16MP Front Camera4000 mAh BatteryQualcomm Snapdragon 855 Plus Processor90 Hz Ultra Smooth Display50W Super Vooc Flash Charge20X Hybrid ZoomBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k391w280/mobile/z/c/m/realme-x2-pro-rmx1931-original-imafmf597chy5p8u.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C3 (Volcano Grey, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display12MP + 2MP | 5MP Front Camera5000 mAh BatteryHelio G70 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kdga1zk0/mobile/n/w/4/realme-c3-rmx2027-original-imafucgfngveff4v.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C3 (Volcano Grey, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display12MP + 2MP | 5MP Front Camera5000 mAh BatteryHelio G70 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kdga1zk0/mobile/n/w/4/realme-c3-rmx2027-original-imafucgfngveff4v.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C3 (Blazing Red, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display12MP + 2MP | 5MP Front Camera5000 mAh BatteryHelio G70 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k612pow0/mobile/p/c/d/realme-c3-rmx2027-original-imafzkzhzj7gfths.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 7i (Fusion Green, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display64MP + 8MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium-ion BatteryQualcomm Snapdragon 662 Processor90 Hz Ultra Smooth Display18W Quick ChargeBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kfpq5jk0/mobile/x/9/e/realme-7i-rmx2103-original-imafw3xgjfuhhgxw.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 20 (Victory Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display48MP + 8MP + 2MP | 8MP Front Camera6000 mAh Lithium-ion BatteryMediaTek Helio G85 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹13,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kfbfr0w0/mobile/s/t/p/realme-narzo-20-rmx2193-original-imafvsw7vfqzh6wr.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5 Pro (Crystal Green, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.0 cm (6.3 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera4035 mAh BatteryQualcomm Snapdragon SDM712 Octa Core 2.3 GHz ProcessorVOOC Flash Charge 3.0Triple Card SlotBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹17,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/u/3/y/realme-5-pro-rmx1971-original-imafjhk3dyggb2bg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 20 Pro (White Knight, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP | 16MP Front Camera4500 mAh Lithium-ion BatteryMediaTek Helio G95 Processor65W Super Dart ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹18,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kfbfr0w0/mobile/m/w/u/realme-narzo-20-pro-rmx2161-original-imafvswzwx8gwxbj.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C12 (Power Silver, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.56 cm (6.52 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera6000 mAh Lithium-ion BatteryMediatek Helio G35 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kdxfc7k0/mobile/h/c/e/realme-c12-rmx2189-original-imafupuyahzxtwfq.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme U1 (Brave Blue, 64 GB)",
+            "features": "3 GB RAM | 64 GB ROM16.0 cm (6.3 inch) Display13MP Rear Camera3500 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "₹11,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/6/x/r/u1-32-u-rmx1831-realme-3-original-imafckhga34gywf3.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme U1 (Fiery Gold, 64 GB)",
+            "features": "3 GB RAM | 64 GB ROM16.0 cm (6.3 inch) Display13MP Rear Camera3500 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/y/n/g/u1-64-a-u1-realme-3-original-imaffg76n7zcg5va.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme U1 (Ambitious Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM16.0 cm (6.3 inch) Display13MP Rear Camera3500 mAh Battery1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/v/8/h/u1-64-c-rmx1833-realme-4-original-imafckkuazfdanmz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Green, 256 GB)",
+            "features": "8 GB RAM | 256 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/f/6/g/realme-x2-rmx1992-original-imafnfe8k8yutker.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X2 (Pearl Green, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM16.26 cm (6.4 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 32MP Front Camera4000 mAh BatteryQualcomm Snapdragon 730G Processor30W VOOC 4.0 Fast ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k41mp3k0/mobile/f/6/g/realme-x2-rmx1992-original-imafnfe8k8yutker.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/g/r/g/c21-rmx3201-realme-original-imagfxfwn9aryyda.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C11 2021 (Cool Blue, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryOcta-core Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30A (Laser Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.54 cm (6.51 inch) HD+ Display13MP + 2MP | 8MP Front Camera6000 mAh BatteryMediaTek Helio G85 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹9,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/klgx0280/mobile/z/b/z/narzo-30a-rmx3171-realme-original-imagyhbgzcyfwzfz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹16,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 128 GB)",
+            "features": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹16,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C20 (Cool Blue, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/w/h/q/c20-rmx3063-realme-original-imagfxfzay72jqvh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C20 (Cool Grey, 32 GB)",
+            "features": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹7,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/7/9/u/c20-rmx3063-realme-original-imagfxfzjrkqtbhe.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 5G (Racing Silver, 128 GB)",
+            "features": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹17,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/b/6/narzo-30-5g-rmx3242-realme-original-imag45yjub2vdrzx.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹18,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/u/f/w/8-5g-rmx3241-realme-original-imag2d8ett6ukhcs.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Black, 32 GB)",
+            "features": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹9,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 8 5G (Supersonic Black, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹18,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/knrsjgw0/mobile/f/o/w/8-5g-rmx3241-realme-original-imag2d8eksc2szzy.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Blue, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/y/2/b/narzo-30-rmx2156-realme-original-imag45yhzhugdcqh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/y/2/b/narzo-30-rmx2156-realme-original-imag45yhzhugdcqh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 (Racing Silver, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Helio G95 Processor30W Charger1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/u/w/b/narzo-30-rmx2156-realme-original-imag45ymfpry9ecq.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 30 5G (Racing Blue, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display48MP + 2MP + 2MP | 16MP Front Camera5000 mAh BatteryMediaTek Dimensity 700 (MT6833) Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/l/f/narzo-30-5g-rmx3242-realme-original-imag45yjdkgxddvh.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme Narzo 20 Pro (Black Ninja, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP | 16MP Front Camera4500 mAh Lithium-ion BatteryMediaTek Helio G95 Processor65W Super Dart ChargerBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹16,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kfbfr0w0/mobile/z/x/a/realme-narzo-20-pro-rmx2161-original-imafvswzqcfztugg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5 Pro (Crystal Green, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.0 cm (6.3 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera4035 mAh BatteryQualcomm Snapdragon SDM712 Octa Core 2.3 GHz ProcessorVOOC Flash Charge 3.0Triple Card SlotBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/u/3/y/realme-5-pro-rmx1971-original-imafjhk3dyggb2bg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5 Pro (Sparkling Blue, 64 GB)",
+            "features": "6 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.0 cm (6.3 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera4035 mAh BatteryQualcomm Snapdragon SDM712 Octa Core 2.3 GHz ProcessorVOOC Flash Charge 3.0Triple Card SlotBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹15,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/g/j/2/realme-5-pro-rmx1971-original-imafjhk3aqsdtkfz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5 Pro (Crystal Green, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.0 cm (6.3 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera4035 mAh BatteryQualcomm Snapdragon SDM712 Octa Core 2.3 GHz ProcessorVOOC Flash Charge 3.0Triple Card SlotBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹14,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/u/3/y/realme-5-pro-rmx1971-original-imafjhk3dyggb2bg.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 5 Pro (Sparkling Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.0 cm (6.3 inch) Full HD+ Display48MP + 8MP + 2MP + 2MP Quad Camera | 16MP Front Camera4035 mAh BatteryQualcomm Snapdragon SDM712 Octa Core 2.3 GHz ProcessorVOOC Flash Charge 3.0Triple Card SlotBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹17,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/g/j/2/realme-5-pro-rmx1971-original-imafjhk3aqsdtkfz.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme C21 (Cross Black, 64 GB)",
+            "features": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) HD+ Display13MP + 2MP + 2MP | 5MP Front Camera5000 mAh BatteryMediaTek Helio G35 Processor1 Year Warranty for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹10,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme 7 (Mist Blue, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.51 cm (6.5 inch) Full HD+ Display64MP + 8MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium-ion BatteryMediaTek Helio G95 ProcessorBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "₹20,999",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/keiuxzk0/mobile/z/h/3/realme-7-rmx2151-original-imafv7fzhnxkmdhx.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X50 Pro 5G (Rust Red, 256 GB)",
+            "features": "12 GB RAM | 256 GB ROM16.36 cm (6.44 inch) Full HD+ Display64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera4200 mAh Battery5G PhoneQualcomm Snapdragon 865 Processor65W Superdart ChargeBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k6zda4w0/mobile/v/m/q/realme-x50-pro-rmx2076-original-imafpbbvwqm4kjnv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X50 Pro (Rust Red, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.36 cm (6.44 inch) Full HD+ Display64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera4200 mAh Battery5G PhoneQualcomm Snapdragon 865 Processor65W Superdart ChargeBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k6zda4w0/mobile/v/m/q/realme-x50-pro-rmx2076-original-imafpbbvwqm4kjnv.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X50 Pro (Moss Green, 128 GB)",
+            "features": "8 GB RAM | 128 GB ROM16.36 cm (6.44 inch) Full HD+ Display64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera4200 mAh Battery5G PhoneQualcomm Snapdragon 865 Processor65W Superdart ChargeBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k6zda4w0/mobile/h/y/8/realme-x50-pro-rmx2076-original-imafpbbvbwfcpz2r.jpeg?q=70"
+        },
+        {
+            "category1": "Mobiles & Accessories",
+            "name": "realme X50 Pro (Moss Green, 256 GB)",
+            "features": "12 GB RAM | 256 GB ROM16.36 cm (6.44 inch) Full HD+ Display64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera4200 mAh Battery5G PhoneQualcomm Snapdragon 865 Processor65W Superdart ChargeBrand Warranty of 1 Year Available for Mobile and 6 Months for Accessories",
+            "oldPrice": "",
+            "imgSrc": "https://rukminim1.flixcart.com/image/312/312/k6zda4w0/mobile/h/y/8/realme-x50-pro-rmx2076-original-imafpbbvbwfcpz2r.jpeg?q=70"
+        }
+    ]

@@ -10,7 +10,7 @@ exports.createProduct=(req,res)=>{
     let productPictures=[] 
     if(req.files.length>0){
         productPictures=req.files.map(file=>{
-            return { img : file.filename }
+            return { img : file.location }
         })
     }
     
@@ -31,7 +31,7 @@ exports.createProduct=(req,res)=>{
             return res.status(400).send({error:err})
         }
         if(product){
-            return res.status(201).send({product:product})
+            return res.status(201).send({product:product,productPic:req.files})
         }
     })
 

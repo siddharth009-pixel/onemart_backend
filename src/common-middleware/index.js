@@ -3,6 +3,9 @@ const jwt=require('jsonwebtoken')
 const multer=require('multer')
 const path=require('path')
 const shortid=require('shortid')
+const multerS3 = require('multer-s3')
+const aws = require('aws-sdk')
+
 
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -13,7 +16,28 @@ const storage = multer.diskStorage({
     }
 })
 
+const s3=new aws.S3({
+    accessKeyId:'AKIA2X6XPQFQCKXLV4PN',
+    secretAccessKey:'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'
+})
+
 exports.upload=multer({storage})
+
+exports.uploadS3 = multer({
+    storage: multerS3({
+      s3: s3,
+      acl:'public-read',
+      contentType: multerS3.AUTO_CONTENT_TYPE,
+      contentDisposition:'inline',
+      bucket: 'onemartpictures',
+      metadata: function (req, file, cb) {
+        cb(null, {fieldName: file.fieldname});
+      },
+      key: function (req, file, cb) {
+        cb(null,  shortid.generate() + '-' + file.originalname)
+      }
+    })
+  })
 
 
 exports.requireSignIn=(req,res,next)=>{
