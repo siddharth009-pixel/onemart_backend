@@ -15,8 +15,8 @@ const orderRoutes=require('./src/routes/order')
 const adminOrderRoutes=require('./src/routes/admin/order')
 // const { requiredSignIn } = require('./common-middleware')
 const path=require('path')
+const fs = require('fs').promises;
 const cors=require('cors')
-
 _env.config();
 
 mongoose
@@ -60,7 +60,7 @@ app.get('/api',(req,res)=>{
 })
 
 
-app.listen(process.env.PORT||2000,'127.0.0.1',()=>{
-    console.log(`server running pn port number ${process.env.PORT}`)
+app.listen(process.env.PORT||2000,`${process.env.IPADDRESS}`||`localhost`,()=>{
+    console.log(`server running pn port number http://${process.env.IPADDRESS}:${process.env.port}`)
 })
 
