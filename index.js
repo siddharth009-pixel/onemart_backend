@@ -60,7 +60,12 @@ app.get('/api',(req,res)=>{
 })
 
 
-app.listen(process.env.PORT||2000,`${process.env.IPADDRESS}`||`localhost`,()=>{
-    console.log(`server running pn port number http://${process.env.IPADDRESS}:${process.env.port}`)
+// app.listen(process.env.PORT||2000,`${process.env.IPADDRESS}`||`localhost`,()=>{
+//     console.log(`server running pn port number http://${process.env.IPADDRESS}:${process.env.port}`)
+// })
+
+
+app.listen(process.env.PORT||2000,()=>{
+  console.log(`server running pn port number http://localhost:${process.env.port}`)
 })
 
