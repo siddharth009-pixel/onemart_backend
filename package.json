@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "build":"nexe index.js -r \"src/controller/**/*\" -r \"src/models/**/*\" -r \"src/mongoSeed/**/*\" -r \"src/routes/**/*\" -r \"src/validators/**/*\" -r \"src/common-middleware/**/*\" -a \"windows-x64-14.15.3\""
+    "build": "nexe index.js -r \"src/controller/**/*\" -r \"src/models/**/*\" -r \"src/mongoSeed/**/*\" -r \"src/routes/**/*\" -r \"src/validators/**/*\" -r \"src/common-middleware/**/*\" -a \"windows-x64-14.15.3\""
   },
   "keywords": [
     "ecommerce",
@@ -27,6 +27,7 @@
     "dotenv": "^9.0.0",
     "express": "^4.17.1",
     "express-validator": "^6.10.1",
+    "http": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.7",
     "multer": "^1.4.2",

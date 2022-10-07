@@ -14,6 +14,7 @@ const addressRoutes=require('./src/routes/address')
 const orderRoutes=require('./src/routes/order')
 const adminOrderRoutes=require('./src/routes/admin/order')
 // const { requiredSignIn } = require('./common-middleware')
+const http = require('http');
 const path=require('path')
 const fs = require('fs').promises;
 const cors=require('cors')
@@ -53,12 +54,14 @@ app.use('/api',addressRoutes)
 app.use('/api',orderRoutes)
 app.use('/api',adminOrderRoutes)
 
+app.use('/', express.static(`${__dirname}/../client/dist`));
+
 app.get('/api',(req,res)=>{
     
     console.log("you are signed in")
     res.send("you are logged in")
 })
-
+const server = http.createServer(app);
 
 // app.listen(process.env.PORT||2000,`${process.env.IPADDRESS}`||`localhost`,()=>{
 //     console.log(`server running pn port number http://${process.env.IPADDRESS}:${process.env.port}`)
@@ -66,6 +69,7 @@ app.get('/api',(req,res)=>{
 
 
 app.listen(process.env.PORT||2000,()=>{
+  socket(server);
   console.log(`server running pn port number http://localhost:${process.env.port}`)
 })
 
